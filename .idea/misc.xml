@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/Demo_2_UILayout/app/src/main/res/layout-ldltr/linearlayouttest.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProjects/Demo_2_UILayout/app/src/main/res/layout-ldltr/tabletest.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidProjects/Demo_2_UILayout/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/AndroidProjects/Demo_2_UILayout/app/src/main/res/layout/tablelayouttest.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/Demo_2_UILayout/app/src/main/res/layout/testlinear.xml" value="0.45505097312326226" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
