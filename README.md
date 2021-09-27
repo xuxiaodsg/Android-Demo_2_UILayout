@@ -6,7 +6,8 @@
 
 利用线性布局实现如下界面：
 
-![image](https://user-images.githubusercontent.com/81363852/134870429-155b96a2-be19-461b-89a0-7607ec791513.png)
+![image-20210927155949930](https://user-images.githubusercontent.com/81363852/134870738-d81e9996-c5e8-4c79-b8c5-f6630d2c8214.png)
+
 
 代码:
 
@@ -148,7 +149,7 @@
 
 结果:
 
-![image-20210927161008180](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210927161008180.png)
+![image-20210927161008180](https://user-images.githubusercontent.com/81363852/134870768-e1cd0934-ca1b-4c59-b786-241436d12d4e.png)
 
 
 
@@ -158,7 +159,8 @@
 
 • 利用ConstraintLayout实现如下界面：
 
-![image-20210927161128928](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210927161128928.png)
+![image-20210927161128928](https://user-images.githubusercontent.com/81363852/134870791-579d031b-6d14-4d7d-9227-b77cd57379f1.png)
+
 
 代码:
 
@@ -367,7 +369,7 @@
 
 结果:
 
-![image-20210927161257245](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210927161257245.png)
+![image-20210927161257245](https://user-images.githubusercontent.com/81363852/134870806-78259d66-6ce4-45fb-8d51-d3f3c42d0425.png)
 
 
 
@@ -375,7 +377,8 @@
 
 • 利用表格布局实现如下界面：
 
-![image-20210927161318136](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210927161318136.png)
+![image-20210927161318136](https://user-images.githubusercontent.com/81363852/134870827-665ba9cd-d7aa-4225-bb14-ebbacc7d1999.png)
+
 
 代码:
 
@@ -513,5 +516,5 @@
 ```
 
 结果:
+![image-20210927161405563](https://user-images.githubusercontent.com/81363852/134870846-fb74c786-3eab-45ce-9ede-b4cb40d0d401.png)
 
-![image-20210927161405563](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210927161405563.png)
