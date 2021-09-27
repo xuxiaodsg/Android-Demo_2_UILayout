@@ -6,7 +6,7 @@
 
 利用线性布局实现如下界面：
 
-![image-20210927155949930](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20210927155949930.png)
+![image](https://user-images.githubusercontent.com/81363852/134870429-155b96a2-be19-461b-89a0-7607ec791513.png)
 
 代码:
 
